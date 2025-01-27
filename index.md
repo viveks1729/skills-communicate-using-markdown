@@ -4,3 +4,6 @@
 ```
 char mander = "Fire Type"
 ```
+- [ ] Charmander
+- [ ] Bulbasaur 
+- [ ] Squirtle
